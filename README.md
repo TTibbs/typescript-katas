@@ -61,6 +61,9 @@ Each kata is organised in its own folder or file with:
 | ------------- | ------------- |
 | Reverse String  | String manipulation, function definitions, method chaining, edge cases |
 | Palindrome Checker  | Function composition, boolean logic, ternary operators, code reusability |
+| Add/Subtract/Multiply/Divide  | Type annotations, function signatures, arithmetic operations, error handling |
+| Create Person  | Interfaces, parameterised constructors, type safety, object creation patterns |
+| Reverse Array  | Generics, immutability, array methods, type inference |
 | ------------- | ------------- |
 | Jest Testing  | Test organisation, assertions, integration testing, type annotations, automated testing workflow |
 
